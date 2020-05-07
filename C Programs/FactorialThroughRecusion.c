@@ -20,7 +20,7 @@ void main(){
 *@param num number to find factorial
 *@return factorial
 */
-int factorial(int num){
+int factorial(int num) {
     int res=1;
     if(num == 1)
     {

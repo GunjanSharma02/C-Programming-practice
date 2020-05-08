@@ -1,4 +1,4 @@
-//@Print the max number out of 5 numbers ?
+//@Print the max number out of N numbers ?
 #include<stdio.h>
 #include<conio.h>
 void main()
